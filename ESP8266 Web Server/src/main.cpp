@@ -2,8 +2,8 @@
 #include <ESP8266WebServer.h>
 #include <ESP8266WiFi.h>
 
-const char* ssid = "Redmi Note 11 Pro";
-const char* password = "asdasas27";
+const char* ssid = "YOUR_WIFI_NAME";
+const char* password = "YOUR_WIFI_PASSWORD";
 
 ESP8266WebServer server(80);
 

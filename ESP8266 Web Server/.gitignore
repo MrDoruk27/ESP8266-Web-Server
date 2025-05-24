@@ -3,3 +3,17 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+*.hex
+*.elf
+*.bin
+*.eep
+*.dep
+*.map
+*.d
+*.o
+*.bak
+*.tmp
+build/
+*.ino.cpp
+.DS_Store
+Thumbs.db
