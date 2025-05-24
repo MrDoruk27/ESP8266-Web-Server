@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "ESP8266 Web Server",
+			"path": "."
+		},
+		{
+			"name": "ESP8266-Web-Server",
+			"path": "../../../GitHub/ESP8266-Web-Server"
+		}
+	],
+	"settings": {}
+}
